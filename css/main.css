@@ -24,6 +24,7 @@ html {
 }
 
 body {
+	max-width: 900px;
 	background: #eeeeee;
 	background: -webkit-linear-gradient(top, #eeeeee, #cccccc 100%);
 	background: -moz-linear-gradient(top, #eeeeee, #cccccc 100%);
