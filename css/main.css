@@ -134,7 +134,7 @@ h4 {
 #end {
 	z-index: 51;
 	background-color: rgba(240,240,240,1.0);
-	background-size: 25% 25%;
+	background-size: 25% auto;
 
   background-image:url(images/0.png);
 }
@@ -259,12 +259,16 @@ h2{
 	margin: 0px;
 
 }
-.p {
+#page4 p {
 	margin:1em 0;
 	line-height:1.1em;
 	text-align: left;
 }
-
+@media screen and (min-width: 510px) {
+	#page4 p {
+	text-align: center;
+	}
+}
 @media screen and (min-width: 620px) {
 	#page3 .describe {
 	text-align: center;
