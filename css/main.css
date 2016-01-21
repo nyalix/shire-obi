@@ -24,7 +24,6 @@ html {
 }
 
 body {
-	max-width: 900px;
 	background: #eeeeee;
 	background: -webkit-linear-gradient(top, #eeeeee, #cccccc 100%);
 	background: -moz-linear-gradient(top, #eeeeee, #cccccc 100%);
@@ -266,3 +265,8 @@ h2{
 	text-align: left;
 }
 
+@media screen and (min-width: 620px) {
+	#page3 .describe {
+	text-align: center;
+	}
+}
