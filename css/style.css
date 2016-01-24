@@ -242,6 +242,12 @@ h2{
 	padding:1em;
 }
 
+#page4_wrapper {
+	position: fixed;
+		z-index: 52;
+
+}
+
 #page4 {
 	width:80%;
 	left:10%;
