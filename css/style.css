@@ -17,7 +17,9 @@ html, body {
 	min-height:vh;
 	font-family:"Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", arial, helvetica, sans-serif;
 }
-
+{
+	
+}
 html {
     overflow: scroll;
 	-webkit-overflow-scrolling: touch;		
@@ -168,6 +170,7 @@ h1 {
 img {
 	margin: 50px;
 	width: 100px;
+	overflow: hidden;
 }
 
 #page2 {
