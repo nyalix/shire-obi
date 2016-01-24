@@ -248,6 +248,7 @@ h2{
 	height:90%;
 	padding:2em;
 	border:0 solid #222;
+	position: fixed;
 
 	text-align:center;
 	-webkit-box-sizing: border-box;
