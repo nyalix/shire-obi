@@ -136,7 +136,7 @@ h4 {
 #end {
 	z-index: 51;
 	background-color: rgba(240,240,240,1.0);
-	background-size: 25% auto;
+	background-size: auto 50%;
 position: fixed;
   background-image:url(images/0.png);
 }
