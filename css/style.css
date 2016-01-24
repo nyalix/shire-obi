@@ -244,8 +244,6 @@ h2{
 
 #page4_wrapper {
 	position: fixed;
-		z-index: 52;
-
 }
 
 #page4 {
@@ -274,6 +272,7 @@ h2{
 	line-height:1.1em;
 	text-align: left;
 }
+
 @media screen and (min-width: 510px) {
 	#page4 p {
 	text-align: center;
